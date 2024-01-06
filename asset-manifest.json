@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/canada-countdown/static/css/main.ea9365ac.css",
-    "main.js": "/canada-countdown/static/js/main.79aa384c.js",
-    "static/js/787.15bf480f.chunk.js": "/canada-countdown/static/js/787.15bf480f.chunk.js",
-    "static/media/canada-bg.jpg": "/canada-countdown/static/media/canada-bg.14a49f9f79f664e82f60.jpg",
-    "index.html": "/canada-countdown/index.html",
-    "main.ea9365ac.css.map": "/canada-countdown/static/css/main.ea9365ac.css.map",
-    "main.79aa384c.js.map": "/canada-countdown/static/js/main.79aa384c.js.map",
-    "787.15bf480f.chunk.js.map": "/canada-countdown/static/js/787.15bf480f.chunk.js.map"
+    "main.css": "/Canada-Countdown/static/css/main.ea9365ac.css",
+    "main.js": "/Canada-Countdown/static/js/main.f78fa810.js",
+    "static/js/787.15bf480f.chunk.js": "/Canada-Countdown/static/js/787.15bf480f.chunk.js",
+    "static/media/canada-bg.jpg": "/Canada-Countdown/static/media/canada-bg.14a49f9f79f664e82f60.jpg",
+    "index.html": "/Canada-Countdown/index.html",
+    "main.ea9365ac.css.map": "/Canada-Countdown/static/css/main.ea9365ac.css.map",
+    "main.f78fa810.js.map": "/Canada-Countdown/static/js/main.f78fa810.js.map",
+    "787.15bf480f.chunk.js.map": "/Canada-Countdown/static/js/787.15bf480f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea9365ac.css",
-    "static/js/main.79aa384c.js"
+    "static/js/main.f78fa810.js"
   ]
 }
