@@ -1,0 +1,20 @@
+{
+  "short_name": "Canada Countdown",
+  "name": "Counting down to that day!",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "canada-favicon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
