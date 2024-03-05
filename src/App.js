@@ -3,7 +3,7 @@ import './App.css';
 import canadaBg from './canada-bg.jpg'; // Import the Canadian-themed background image
 
 function App() {
-  const targetDate = new Date('2024-02-16');
+  const targetDate = new Date('2024-04-30');
   const [remainingDays, setRemainingDays] = useState(calculateDays());
 
   function calculateDays() {
